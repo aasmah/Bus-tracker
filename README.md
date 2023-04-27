@@ -11,7 +11,7 @@ https://screenpal.com/watch/crjTn8VjWqT
 
 we are using promise await resolve in our code.
 
- fulture  task: we could  make use of  this mapbox data to download realtime navigation from point A to B.
+ future  task: we could  make use of  this mapbox data to download realtime navigation from point A to B.
 
 
 Copyright 2023 <MiT>
